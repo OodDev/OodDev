@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://uc371462b8b6f34a60bf451cc015.previews.dropboxusercontent.com/p/thumb/ACHn0-vxQF7AyxSarr3cFiuIJkiuopdX8ldRY77xkucLEmRdfQTk5hReAnN7Dx3JFh-qzSqNUh-KIYz69Zg_KsCobqbK7T3QmdRywa9hgMTAwdvMPeu0IZlMI8dnrbHJo_9Vi7oAtvwpRIxgIEgCVLNKj8DPRqM_5bu8f2SqeYj0jpcE1tKxRzBiknhiuPk6L0Jxciv06jzPIUn-NuceD_FWMBZ22fkzQv49laBPQTLpIYzQddN81cX1J8WM-npUzIVraigKKRcAo2IGqM_EQfoAMr32JZJSwxVro9nDVnp0gjJeTezDVOCrlfOalxkdblySsuINsnIK7ZB3AdOd09Q8sfylj_Epju_ugRD3gx8w62yWaFotSGZHdDkV0CAWVZE/p.jpeg" alt="Immagine Profilo OodDev">
+
+
+
 <!--
 **OodDev/OodDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
